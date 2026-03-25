@@ -1,0 +1,16 @@
+/*
+Theme Name: Agency Starter Theme
+Theme URI: https://github.com/yosuamo/idoweb1
+Author: Web Developer Team
+Description: A modern, minimalist WordPress theme for agencies.
+Version: 1.0.0
+Text Domain: agency-starter
+*/
+
+body {
+    background-color: #0B0C10;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
